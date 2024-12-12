@@ -1,0 +1,11 @@
+# Virtual Environment
+/venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Specific files
+XBL Viewer.pdf
+all_stocks_5yr.csv
+constants.py
